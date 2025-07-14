@@ -121,3 +121,6 @@ Then for the other non-GUI tools, I use it on the Docker container.
 
 # Whats next? 
 In the same shelf I found the thinkpad, I also discovered a Dell OptiPlex 3040M. I might upgrade certain parts and use this mini-PC to run either a malware lab or enterprise environment (with an AD, MailServer, EDR, SIEM, etc...) But I should really get back to studying for CPTS so maybe after that, I'll start this new project. 
+
+
+Thanks for reading!
